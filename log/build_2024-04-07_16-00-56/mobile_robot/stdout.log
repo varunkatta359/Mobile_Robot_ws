@@ -1,0 +1,26 @@
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/varun/project_ws/build/mobile_robot
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/empty.yaml
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/robot.urdf.xacro
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot//launch/rps.launch.py
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot//worlds/empty.world
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/environment/path.sh
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/environment/path.dsv
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/local_setup.bash
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/local_setup.sh
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/local_setup.zsh
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/local_setup.dsv
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/package.dsv
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/ament_index/resource_index/packages/mobile_robot
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig.cmake
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig-version.cmake
+-- Symlinking: /home/varun/project_ws/install/mobile_robot/share/mobile_robot/package.xml
