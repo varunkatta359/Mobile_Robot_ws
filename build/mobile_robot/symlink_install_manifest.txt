@@ -1,7 +1,14 @@
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/drive_bot.rviz
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/empty.yaml
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/view.rviz2.rviz
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/gazebo_control.xacro
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/inertial_macros.xacro
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/robot.urdf.xacro
-/home/varun/project_ws/install/mobile_robot/share/mobile_robot//launch/rps.launch.py
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/robot_core.xacro
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//launch/launch_sim.launch.py
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//launch/rsp.launch.py
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//worlds/empty.world
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//worlds/sample_world.world
 /home/varun/project_ws/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
 /home/varun/project_ws/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
