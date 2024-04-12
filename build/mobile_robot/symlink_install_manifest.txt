@@ -1,4 +1,6 @@
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/drive_bot.rviz
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/project.rviz
+/home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/project_config.rviz
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//config/view.rviz2.rviz
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/camera.xacro
 /home/varun/project_ws/install/mobile_robot/share/mobile_robot//description/depth_camera.xacro

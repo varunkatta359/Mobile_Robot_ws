@@ -69,10 +69,10 @@
     </link>
 
     <gazebo reference="chassis">
-        <material>Gazebo/White</material>
+        <material>Gazebo/Yellow</material>
     </gazebo>
 
-    <!-- LEFT WHEEL LINK -->
+    <!-- LEFT WHEEL LINK -->    
 
     <joint name="left_wheel_joint" type="continuous">
         <parent link="base_link"/>
